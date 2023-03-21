@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="button_name">Hello World</string>
+    <string name="multiplyText">Mutiply these numbers</string>
+    <string name="teslaAdress">1501 Page Mill Road Palo Alto, CA 94304</string>
+    <string name="buttonText">See more!</string>
+    <string name="textAboutMusk">This is our CEO - He likes to smoke blunts</string>
+</resources>

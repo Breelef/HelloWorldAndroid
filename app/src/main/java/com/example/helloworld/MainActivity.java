@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         button = findViewById(R.id.button);
     }
     public void moveToPage(View view){
-        Intent intent = new Intent(MainActivity.this, MainActivity4.class);
+        Intent intent = new Intent(MainActivity.this, FirebaseLesson.class);
         startActivity(intent);
     }
    /* public void helloWorldButtonPressed (View view){

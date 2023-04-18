@@ -45,8 +45,8 @@ public class ImageAdapter extends BaseAdapter {
         }
         TextView textView = view.findViewById(R.id.rowTextView);
         textView.setText(items.get(i).getText());
-        ImageView imageView = view.findViewById(R.id.rowImageView);
-        imageView.setImageResource(items.get(i).getImage());
+        //ImageView imageView = view.findViewById(R.id.rowImageView);
+        //imageView.setImageResource(items.get(i).getImage());
         return view;
     }
 }
